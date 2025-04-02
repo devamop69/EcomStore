@@ -1,0 +1,13 @@
+{
+  "users": [
+    {
+      "_id": "1743580698589",
+      "name": "jaswanth",
+      "email": "jaswanth@gmail.com",
+      "password": "$2a$10$J.psIvcqCK7WBJD2wHp.auiD/n4BB.urEpZNgSq3zlDaVaigvcrKu",
+      "isAdmin": false
+    }
+  ],
+  "products": [],
+  "bookings": []
+}

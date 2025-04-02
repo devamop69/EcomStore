@@ -1,0 +1,24 @@
+{
+  "bookings": [
+    {
+      "_id": "1743534886585",
+      "name": "jaswanth",
+      "email": "jaswanth@gmail.com",
+      "phone": "9908315263",
+      "date": "2025-04-02",
+      "timeSlot": "2:00 PM - 4:00 PM",
+      "status": "confirmed",
+      "createdAt": "2025-04-01T19:14:46.585Z"
+    },
+    {
+      "_id": "1743535789833",
+      "name": "jaswanth",
+      "email": "jaswanth@gmail.com",
+      "phone": "9908315263",
+      "date": "2025-04-02",
+      "timeSlot": "12:00 PM - 2:00 PM",
+      "status": "confirmed",
+      "createdAt": "2025-04-01T19:29:49.833Z"
+    }
+  ]
+}
